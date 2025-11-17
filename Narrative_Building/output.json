@@ -1,0 +1,1097 @@
+{
+  "narrative_summary": "One major thread concerns: \"38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don’t sink warning’ on take off from Delhi\" (representative of 17 article(s)). One major thread concerns: \"IIT-Madras to mentor Telangana's Sircilla govt school students; 8-week online course to focus on AI & more\" (representative of 7 article(s)). One major thread concerns: \"Activists accuse food regulator of stalling on-pack labelling regulation\" (representative of 6 article(s)). One major thread concerns: \"Startups to giants: India rides the AI wave to sustainability\" (representative of 6 article(s)). Chronologically, coverage moves from initial reports to follow-ups that add context, statements, and policy reactions. Together these pieces highlight the interplay between events, official responses, and broader implications.",
+  "timeline": [
+    {
+      "date": "2025-06-23T20:39:00+00:00",
+      "headline": "GPS interference: AI Express Delhi-Jammu flight returns to IGIA",
+      "url": "https://timesofindia.indiatimes.com/india/gps-interference-ai-express-delhi-jammu-flight-returns-to-igia/articleshow/122029140.cms",
+      "score": 0.14259550875618077,
+      "why_it_matters": "Relevant (score=0.143). Excerpt: GPS interference: AI Express Delhi-Jammu flight returns to IGIA"
+    },
+    {
+      "date": "2025-06-24T14:24:00+00:00",
+      "headline": "'All a speculation': Black box of crashed AI plane not sent abroad, says Naidu; currently with AIIB",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/all-a-speculation-black-box-of-crashed-ai-plane-not-sent-abroad-says-naidu-currently-with-aiib/articleshow/122044255.cms",
+      "score": 0.11665920125588261,
+      "why_it_matters": "Relevant (score=0.117). Excerpt: 'All a speculation': Black box of crashed AI plane not sent abroad, says Naidu; currently with AIIB"
+    },
+    {
+      "date": "2025-06-25T17:00:00",
+      "headline": "Next-generation digital highway: Delhi's Dwarka Expressway gets India’s first AI-powered smart traffic system; check top features",
+      "url": "https://timesofindia.indiatimes.com/business/infrastructure/next-generation-digital-highway-delhis-dwarka-expressway-gets-indias-first-ai-powered-smart-traffic-system-check-top-features/articleshow/122067359.cms",
+      "score": 0.11320756721215164,
+      "why_it_matters": "Relevant (score=0.113). Excerpt: Next-generation digital highway: Delhi's Dwarka Expressway gets India’s first AI-powered smart traffic system; check top features"
+    },
+    {
+      "date": "2025-06-25T17:43:00+00:00",
+      "headline": "We crashed AI 171: Chennai techie creates hundreds of fake emails, uses 80 phone numbers across 11 states to trap colleague",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/we-crashed-ai-171-chennai-techie-creates-hundreds-of-fake-emails-uses-80-phone-numbers-across-11-states-to-trap-colleague/articleshow/122070166.cms",
+      "score": 0.09803228711105909,
+      "why_it_matters": "Relevant (score=0.098). Excerpt: We crashed AI 171: Chennai techie creates hundreds of fake emails, uses 80 phone numbers across 11 states to trap colleague"
+    },
+    {
+      "date": "2025-06-26T19:09:00+00:00",
+      "headline": "Nvidia CEO Jensen Huang now eyes this tech sector after AI: ‘We’re working towards a day where…’",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-now-eyes-this-tech-sector-after-ai-were-working-towards-a-day-where/articleshow/122093878.cms",
+      "score": 0.1416889213404163,
+      "why_it_matters": "Relevant (score=0.142). Excerpt: Nvidia CEO Jensen Huang now eyes this tech sector after AI: ‘We’re working towards a day where…’"
+    },
+    {
+      "date": "2025-06-26T19:41:00+00:00",
+      "headline": "The AI technology that has divided Silicon Valley is biggest reason behind the rift between OpenAI and Microsoft",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-ai-technology-that-has-divided-silicon-valley-is-biggest-reason-behind-the-rift-between-openai-and-microsoft/articleshow/122094351.cms",
+      "score": 0.1252369621612035,
+      "why_it_matters": "Relevant (score=0.125). Excerpt: The AI technology that has divided Silicon Valley is biggest reason behind the rift between OpenAI and Microsoft"
+    },
+    {
+      "date": "2025-07-01T01:29:00+00:00",
+      "headline": "38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don’t sink warning’ on take off from Delhi",
+      "url": "https://timesofindia.indiatimes.com/india/38-hours-after-ai-171-crash-ai-boeing-777-got-stall-ground-proximity-dont-sink-warning-on-take-off-from-delhi/articleshow/122168144.cms",
+      "score": 0.2013584547933803,
+      "why_it_matters": "Relevant (score=0.201). Excerpt: 38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don’t sink warning’ on take off from Delhi"
+    },
+    {
+      "date": "2025-07-01T01:58:00+00:00",
+      "headline": "As Apple's AI struggles continue, it again looks at these technology companies including one backed by Amazon",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-apples-ai-struggles-continue-it-again-looks-at-these-technology-companies-including-one-backed-by-amazon/articleshow/122168275.cms",
+      "score": 0.12919677293811077,
+      "why_it_matters": "Relevant (score=0.129). Excerpt: As Apple's AI struggles continue, it again looks at these technology companies including one backed by Amazon"
+    },
+    {
+      "date": "2025-07-02T13:03:00+05:30",
+      "headline": "Meta Offering OpenAI Researchers Up to $300 Million to Join Its AI Lab, Says Report; Company Responds",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-offering-openai-researchers-up-to-300-million-to-join-its-ai-lab-says-report-company-responds-says-some-people-have-chosen-to/articleshow/122200248.cms",
+      "score": 0.12080057245159902,
+      "why_it_matters": "Relevant (score=0.121). Excerpt: Meta Offering OpenAI Researchers Up to $300 Million to Join Its AI Lab, Says Report; Company Responds"
+    },
+    {
+      "date": "2025-07-02T16:25:00+00:00",
+      "headline": "Air India plane crash: AI-generated fake reports, videos spreading misinformation; fraudsters exploiting vulnerability",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-plane-crash-ai-generated-fake-reports-videos-spreading-misinformation-fraudsters-exploiting-vulnerability/articleshow/122202668.cms",
+      "score": 0.11218671463604554,
+      "why_it_matters": "Relevant (score=0.112). Excerpt: Air India plane crash: AI-generated fake reports, videos spreading misinformation; fraudsters exploiting vulnerability"
+    },
+    {
+      "date": "2025-07-03T08:52:00+00:00",
+      "headline": "Telangana to curb industrial mishaps: Smart tech in focus; AI tools, safety rules to be enforced",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-to-curb-industrial-mishaps-smart-tech-in-focus-ai-tools-safety-rules-to-be-enforced/articleshow/122217518.cms",
+      "score": 0.1191588520137002,
+      "why_it_matters": "Relevant (score=0.119). Excerpt: Telangana to curb industrial mishaps: Smart tech in focus; AI tools, safety rules to be enforced"
+    },
+    {
+      "date": "2025-07-03T11:28:00+00:00",
+      "headline": "From coders to copilots: How Microsoft's 9,000 layoffs reflect the AI-driven evolution of tech work",
+      "url": "https://timesofindia.indiatimes.com/education/news/microsoft-confirms-9000-layoffs-in-strategic-pivot-to-artificial-intelligence/articleshow/122219264.cms",
+      "score": 0.1204528809046827,
+      "why_it_matters": "Relevant (score=0.120). Excerpt: From coders to copilots: How Microsoft's 9,000 layoffs reflect the AI-driven evolution of tech work"
+    },
+    {
+      "date": "2025-07-04T02:57:00+00:00",
+      "headline": "6 families of AI 171 crash victims receive 'second set' of remains",
+      "url": "https://timesofindia.indiatimes.com/india/6-families-of-ai-171-crash-victims-receive-second-set-of-remains/articleshow/122235829.cms",
+      "score": 0.15178400264030406,
+      "why_it_matters": "Relevant (score=0.152). Excerpt: 6 families of AI 171 crash victims receive 'second set' of remains"
+    },
+    {
+      "date": "2025-07-04T07:59:00+00:00",
+      "headline": "Startups to giants: India rides the AI wave to sustainability",
+      "url": "https://timesofindia.indiatimes.com/india/startups-to-giants-india-rides-the-ai-wave-to-sustainability/articleshow/122238919.cms",
+      "score": 0.1525836183897021,
+      "why_it_matters": "Relevant (score=0.153). Excerpt: Startups to giants: India rides the AI wave to sustainability"
+    },
+    {
+      "date": "2025-07-04T22:53:00+00:00",
+      "headline": "Soundcheck! Shux, crew lend voice to help train AI on Earth",
+      "url": "https://timesofindia.indiatimes.com/india/soundcheck-shux-crew-lend-voice-to-help-train-ai-on-earth/articleshow/122255012.cms",
+      "score": 0.13518606574902536,
+      "why_it_matters": "Relevant (score=0.135). Excerpt: Soundcheck! Shux, crew lend voice to help train AI on Earth"
+    },
+    {
+      "date": "2025-07-07T11:50:00",
+      "headline": "Mars in just 15 years? European Space Agency’s bold plan includes space cities and AI farmers",
+      "url": "https://timesofindia.indiatimes.com/science/mars-in-just-15-years-european-space-agencys-bold-plan-includes-space-cities-and-ai-farmers/articleshow/122291230.cms",
+      "score": 0.11088929247353739,
+      "why_it_matters": "Relevant (score=0.111). Excerpt: Mars in just 15 years? European Space Agency’s bold plan includes space cities and AI farmers"
+    },
+    {
+      "date": "2025-07-10T15:40:00+05:30",
+      "headline": "Google AI mode rolled out: Top features for students to learn faster, smarter",
+      "url": "https://timesofindia.indiatimes.com/education/news/google-ai-mode-rolled-out-top-features-for-students-to-learn-faster-smarter/articleshow/122363983.cms",
+      "score": 0.13388975857893462,
+      "why_it_matters": "Relevant (score=0.134). Excerpt: Google AI mode rolled out: Top features for students to learn faster, smarter"
+    },
+    {
+      "date": "2025-07-11T09:19:00+00:00",
+      "headline": "IIT-Madras to mentor Telangana's Sircilla govt school students; 8-week online course to focus on AI & more",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/iit-madras-to-mentor-telanganas-sircilla-govt-school-students-8-week-online-course-to-focus-on-ai-more/articleshow/122378523.cms",
+      "score": 0.12051856208701096,
+      "why_it_matters": "Relevant (score=0.121). Excerpt: IIT-Madras to mentor Telangana's Sircilla govt school students; 8-week online course to focus on AI & more"
+    },
+    {
+      "date": "2025-07-11T15:32:00+00:00",
+      "headline": "Grok AI chatbot explains why it is 'consulting' Elon Musk for Israel-Palestine, abortion, immigration and everything 'controversial'",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/grok-ai-chatbot-explains-why-it-is-consulting-elon-musk-for-israel-palestine-abortion-immigration-and-everything-controversial/articleshow/122385878.cms",
+      "score": 0.11296032730392985,
+      "why_it_matters": "Relevant (score=0.113). Excerpt: Grok AI chatbot explains why it is 'consulting' Elon Musk for Israel-Palestine, abortion, immigration and everything 'controversial'"
+    },
+    {
+      "date": "2025-07-12T04:01:00+00:00",
+      "headline": "'Fuel supply to AI 171 Dreamliner engines got cutoff 3 seconds after liftoff, plane crashed 29 seconds later': AAIB in preliminary report",
+      "url": "https://timesofindia.indiatimes.com/india/fuel-supply-to-ai-171-dreamliner-engines-got-cutoff-3-seconds-after-liftoff-plane-crashed-29-seconds-later-aaibs-preliminary-report-on-air-india-plane-crash/articleshow/122395331.cms",
+      "score": 0.08748527822846414,
+      "why_it_matters": "Relevant (score=0.087). Excerpt: 'Fuel supply to AI 171 Dreamliner engines got cutoff 3 seconds after liftoff, plane crashed 29 seconds later': AAIB in preliminary report"
+    },
+    {
+      "date": "2025-07-12T04:40:00+00:00",
+      "headline": "Both engines shut down within secs of take-off: AI crash report",
+      "url": "https://timesofindia.indiatimes.com/india/both-engines-shut-down-within-secs-of-take-off-ai-crash-report/articleshow/122396319.cms",
+      "score": 0.17872976823830894,
+      "why_it_matters": "Relevant (score=0.179). Excerpt: Both engines shut down within secs of take-off: AI crash report"
+    },
+    {
+      "date": "2025-07-12T08:31:00+05:30",
+      "headline": "AI plane crash probe: What happened before the Mayday call? Timeline of final moments",
+      "url": "https://timesofindia.indiatimes.com/india/ai-plane-crash-probe-what-happened-before-the-mayday-call-timeline-of-final-moments/articleshow/122398672.cms",
+      "score": 0.14639792270871693,
+      "why_it_matters": "Relevant (score=0.146). Excerpt: AI plane crash probe: What happened before the Mayday call? Timeline of final moments"
+    },
+    {
+      "date": "2025-07-12T09:54:00+00:00",
+      "headline": "Fuel switches found in 'RUN' position: Aftermath of AI 171 crash in images; what the wreckage shows",
+      "url": "https://timesofindia.indiatimes.com/india/fuel-switches-found-in-run-position-aftermath-of-ai-171-crash-in-images-what-the-wreckage-shows/articleshow/122398583.cms",
+      "score": 0.12579759080825917,
+      "why_it_matters": "Relevant (score=0.126). Excerpt: Fuel switches found in 'RUN' position: Aftermath of AI 171 crash in images; what the wreckage shows"
+    },
+    {
+      "date": "2025-07-12T11:37:00+00:00",
+      "headline": "Inside the cockpit: ‘Why did you cut off ...?’ What was the last conversation between AI 171 pilots",
+      "url": "https://timesofindia.indiatimes.com/india/inside-the-cockpit-why-did-you-cut-off-what-was-the-last-conversation-between-ai-171-pilots/articleshow/122399899.cms",
+      "score": 0.15135248001707763,
+      "why_it_matters": "Relevant (score=0.151). Excerpt: Inside the cockpit: ‘Why did you cut off ...?’ What was the last conversation between AI 171 pilots"
+    },
+    {
+      "date": "2025-07-12T13:44:00+00:00",
+      "headline": "'Don't jump to any conclusion': Civil aviation minister reacts to AI 171 crash probe report; calls it 'preliminary'",
+      "url": "https://timesofindia.indiatimes.com/india/dont-jump-to-any-conclusion-civil-aviation-ministry-reacts-to-ai-171-crash-probe-report-calls-it-preliminary/articleshow/122401861.cms",
+      "score": 0.11965446505483489,
+      "why_it_matters": "Relevant (score=0.120). Excerpt: 'Don't jump to any conclusion': Civil aviation minister reacts to AI 171 crash probe report; calls it 'preliminary'"
+    },
+    {
+      "date": "2025-07-14T11:19:00+00:00",
+      "headline": "What US FAA and Boeing's 'privately issued notifications' say amid Air India AI 171 Boeing 787-8 crash probe",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/what-us-faa-and-boeings-privately-issued-notifications-say-amid-air-india-ai-171-boeing-787-8-crash-probe/articleshow/122430350.cms",
+      "score": 0.1021032932114462,
+      "why_it_matters": "Relevant (score=0.102). Excerpt: What US FAA and Boeing's 'privately issued notifications' say amid Air India AI 171 Boeing 787-8 crash probe"
+    },
+    {
+      "date": "2025-07-14T16:53:00+05:30",
+      "headline": "‘Citizens must know the value of free speech and expression’: SC flags divisive content on social media; urges self-regulation, not over-censorship",
+      "url": "https://timesofindia.indiatimes.com/india/citizens-must-know-the-value-of-free-speech-and-expression-sc-flags-divisive-content-on-social-media-urges-self-restraint-not-censorship/articleshow/122437370.cms",
+      "score": 0.24075232851871736,
+      "why_it_matters": "Relevant (score=0.241). Focus: policy/regulatory implications"
+    },
+    {
+      "date": "2025-07-15T11:46:00+00:00",
+      "headline": "‘They don't need…: Nvidia CEO Jensen Huang on concerns over China Military using US AI chips",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/they-dont-needcertainly-nvidia-ceo-jensen-huang-on-concerns-over-china-military-using-us-chips/articleshow/122450740.cms",
+      "score": 0.1276643370762108,
+      "why_it_matters": "Relevant (score=0.128). Excerpt: ‘They don't need…: Nvidia CEO Jensen Huang on concerns over China Military using US AI chips"
+    },
+    {
+      "date": "2025-07-15T11:51:00+00:00",
+      "headline": "Now, International Federation of Pilots also says AI 171 report 'raises questions, provides no answers'",
+      "url": "https://timesofindia.indiatimes.com/india/now-international-federation-of-pilots-also-says-ai-171-report-raises-questions-provides-no-answers/articleshow/122489273.cms",
+      "score": 0.13033401146778306,
+      "why_it_matters": "Relevant (score=0.130). Excerpt: Now, International Federation of Pilots also says AI 171 report 'raises questions, provides no answers'"
+    },
+    {
+      "date": "2025-07-15T19:40:00+00:00",
+      "headline": "Activists accuse food regulator of stalling on-pack labelling regulation",
+      "url": "https://timesofindia.indiatimes.com/india/activists-accuse-food-regulator-of-stalling-on-pack-labelling-regulation/articleshow/122515185.cms",
+      "score": 0.29949658517740063,
+      "why_it_matters": "Relevant (score=0.299). Focus: policy/regulatory implications"
+    },
+    {
+      "date": "2025-07-17T08:31:00",
+      "headline": "Donald Trump declares: We are way ahead of China in AI race and the plants are ..",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-declares-we-are-way-ahead-of-china-in-ai-race-and-the-plants-are-/articleshow/122589990.cms",
+      "score": 0.14997360966497067,
+      "why_it_matters": "Relevant (score=0.150). Excerpt: Donald Trump declares: We are way ahead of China in AI race and the plants are .."
+    },
+    {
+      "date": "2025-07-17T10:48:00+00:00",
+      "headline": "AI font forensics helps income tax (I-T) in Hyderabad bust Rs 68 lakh LTCG fraud; exposes forged document from 2002",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/ai-font-forensics-helps-income-tax-i-t-in-hyderabad-bust-rs-68-lakh-ltcg-fraud-exposes-forged-document-from-2002/articleshow/122615657.cms",
+      "score": 0.09767969346600357,
+      "why_it_matters": "Relevant (score=0.098). Excerpt: AI font forensics helps income tax (I-T) in Hyderabad bust Rs 68 lakh LTCG fraud; exposes forged document from 2002"
+    },
+    {
+      "date": "2025-07-19T04:39:00+00:00",
+      "headline": "AI meets Ayodhya: Young drama group stages Pak's 1st Ramayana",
+      "url": "https://timesofindia.indiatimes.com/india/ai-meets-ayodhya-young-drama-group-stages-paks-1st-ramayana/articleshow/122773587.cms",
+      "score": 0.13229616753317652,
+      "why_it_matters": "Relevant (score=0.132). Excerpt: AI meets Ayodhya: Young drama group stages Pak's 1st Ramayana"
+    },
+    {
+      "date": "2025-07-23T03:04:00+00:00",
+      "headline": "Fuel switch checks clear Boeing 787s, 737s in AI fleet",
+      "url": "https://timesofindia.indiatimes.com/india/fuel-switch-checks-clear-boeing-787s-737s-in-ai-fleet/articleshow/122845148.cms",
+      "score": 0.12969857606833368,
+      "why_it_matters": "Relevant (score=0.130). Excerpt: Fuel switch checks clear Boeing 787s, 737s in AI fleet"
+    },
+    {
+      "date": "2025-07-24T11:35:00+00:00",
+      "headline": "Ahmedabad air crash: Inside the 10-second mystery - What really brought down AI 171?",
+      "url": "https://timesofindia.indiatimes.com/india/ahmedabad-air-crash-inside-the-10-second-mystery-what-really-brought-down-ai-171/articleshow/122873495.cms",
+      "score": 0.13718225587534708,
+      "why_it_matters": "Relevant (score=0.137). Excerpt: Ahmedabad air crash: Inside the 10-second mystery - What really brought down AI 171?"
+    },
+    {
+      "date": "2025-07-24T17:31:00+00:00",
+      "headline": "Air India tragedy: 112 Air India pilots called in sick in AI-171 crash aftermath; government says 'minor increase in leaves' across fleets",
+      "url": "https://timesofindia.indiatimes.com/india/air-india-tragedy-112-air-india-pilots-called-in-sick-in-ai-171-crash-aftermath-government-says-minor-increase-in-leaves-across-fleets/articleshow/122881974.cms",
+      "score": 0.09992845747807906,
+      "why_it_matters": "Relevant (score=0.100). Excerpt: Air India tragedy: 112 Air India pilots called in sick in AI-171 crash aftermath; government says 'minor increase in leaves' across fleets"
+    },
+    {
+      "date": "2025-07-26T11:32:00+05:30",
+      "headline": "Mark Zuckerberg appoints Shengjia Zhao, who co-created OpenAI’s ChatGPT, as chief scientist of Meta's AI Superintelligence Lab",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-appoints-shengjia-zhao-who-co-created-openais-chatgpt-as-chief-scientist-of-metas-ai-superintelligence-lab/articleshow/122918120.cms",
+      "score": 0.10442866489309864,
+      "why_it_matters": "Relevant (score=0.104). Excerpt: Mark Zuckerberg appoints Shengjia Zhao, who co-created OpenAI’s ChatGPT, as chief scientist of Meta's AI Superintelligence Lab"
+    },
+    {
+      "date": "2025-07-28T01:53:00+00:00",
+      "headline": "AI crash: Mum's skin grafts help heal infant's 36% burns",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-crash-mums-skin-grafts-help-heal-infants-36-burns/articleshow/122939791.cms",
+      "score": 0.12445527386054607,
+      "why_it_matters": "Relevant (score=0.124). Excerpt: AI crash: Mum's skin grafts help heal infant's 36% burns"
+    },
+    {
+      "date": "2025-07-28T11:27:00+00:00",
+      "headline": "Nvidia CEO Jensen Huang predicts: AI will create more millionaires in five years - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-predicts-ai-will-create-more-millionaires-in-five-years/articleshow/122946593.cms",
+      "score": 0.13388912110174261,
+      "why_it_matters": "Relevant (score=0.134). Excerpt: Nvidia CEO Jensen Huang predicts: AI will create more millionaires in five years - The Times of India"
+    },
+    {
+      "date": "2025-07-30T08:57:00+00:00",
+      "headline": "TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-layoffs-rattle-it-sector-infosys-rules-out-job-cuts-focuses-on-freshers-and-ai-reskilling/articleshow/122982813.cms",
+      "score": 0.11643802308387054,
+      "why_it_matters": "Relevant (score=0.116). Excerpt: TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling"
+    },
+    {
+      "date": "2025-07-30T08:57:00+05:30",
+      "headline": "TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/tcs-layoffs-rattle-it-sector-infosys-rules-out-job-cuts-focuses-on-freshers-and-ai-reskilling/articleshow/122982813.cms",
+      "score": 0.11643802308387054,
+      "why_it_matters": "Relevant (score=0.116). Excerpt: TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling"
+    },
+    {
+      "date": "2025-07-30T14:27:00+00:00",
+      "headline": "Who is Mira Murati? Former OpenAI CTO who rejected Mark Zuckerberg's $1 billion offer to join Meta AI",
+      "url": "https://timesofindia.indiatimes.com/world/us/who-is-mira-murati-former-openai-cto-who-rejected-mark-zuckerbergs-1-billion-offer-to-join-meta-ai/articleshow/122994020.cms",
+      "score": 0.1152430109211241,
+      "why_it_matters": "Relevant (score=0.115). Focus: policy/regulatory implications"
+    },
+    {
+      "date": "2025-07-31T12:40:00+00:00",
+      "headline": "Salesforce CEO Marc Benioff says: I keep asking CEOs, what AI are they using for these big layoffs, and I think...",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-i-keep-asking-ceos-what-ai-are-they-using-for-these-big-layoffs-and-i-think-/articleshow/123014079.cms",
+      "score": 0.11679767097870965,
+      "why_it_matters": "Relevant (score=0.117). Excerpt: Salesforce CEO Marc Benioff says: I keep asking CEOs, what AI are they using for these big layoffs, and I think..."
+    },
+    {
+      "date": "2025-07-31T13:26:00+00:00",
+      "headline": "Bagdogra-bound AI Express flyer from Srinagar lands in Bhubaneswar; didn't change planes in Delhi",
+      "url": "https://timesofindia.indiatimes.com/india/bagdogra-bound-ai-express-flyer-from-srinagar-lands-in-bhubaneswar-didnt-change-planes-in-delhi/articleshow/123014785.cms",
+      "score": 0.11424033434019683,
+      "why_it_matters": "Relevant (score=0.114). Excerpt: Bagdogra-bound AI Express flyer from Srinagar lands in Bhubaneswar; didn't change planes in Delhi"
+    },
+    {
+      "date": "2025-10-06T22:47:00",
+      "headline": "Army used AI in a 'big way' during Operation Sindoor",
+      "url": "https://timesofindia.indiatimes.com/india/army-used-ai-in-a-big-way-during-operation-sindoor/articleshow/124345398.cms",
+      "score": 0.1830848056520231,
+      "why_it_matters": "Relevant (score=0.183). Excerpt: Army used AI in a 'big way' during Operation Sindoor"
+    },
+    {
+      "date": "2025-10-16T19:58:00",
+      "headline": "AI 171 crash: Pilot’s aged father moves SC seeking independent probe; terms preliminary report ‘profoundly flawed’",
+      "url": "https://timesofindia.indiatimes.com/india/ai-171-crash-pilots-aged-father-moves-sc-seeking-independent-probe-terms-preliminary-report-profoundly-flawed/articleshow/124607874.cms",
+      "score": 0.10672140365129565,
+      "why_it_matters": "Relevant (score=0.107). Focus: policy/regulatory implications"
+    },
+    {
+      "date": "2025-10-22T17:03:00",
+      "headline": "AI in focus: Centre proposes changes in IT Rules to curb deepfakes; public feedback open till November 6",
+      "url": "https://timesofindia.indiatimes.com/india/ai-in-focus-meity-proposes-it-rules-changes-to-curb-deepfakes-public-feedback-open-till-november-6/articleshow/124739220.cms",
+      "score": 0.11451428508133997,
+      "why_it_matters": "Relevant (score=0.115). Excerpt: AI in focus: Centre proposes changes in IT Rules to curb deepfakes; public feedback open till November 6"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": 2,
+      "size": 17,
+      "representative": {
+        "index": 2,
+        "score": 0.2013584547933803,
+        "headline": "38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don’t sink warning’ on take off from Delhi",
+        "url": "https://timesofindia.indiatimes.com/india/38-hours-after-ai-171-crash-ai-boeing-777-got-stall-ground-proximity-dont-sink-warning-on-take-off-from-delhi/articleshow/122168144.cms",
+        "snippet": "38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don’t sink warning’ on take off from Delhi"
+      },
+      "members": [
+        {
+          "index": 2,
+          "score": 0.2013584547933803,
+          "headline": "38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don’t sink warning’ on take off from Delhi",
+          "url": "https://timesofindia.indiatimes.com/india/38-hours-after-ai-171-crash-ai-boeing-777-got-stall-ground-proximity-dont-sink-warning-on-take-off-from-delhi/articleshow/122168144.cms",
+          "snippet": "38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don’t sink warning’ on take off from Delhi"
+        },
+        {
+          "index": 6,
+          "score": 0.15178400264030406,
+          "headline": "6 families of AI 171 crash victims receive 'second set' of remains",
+          "url": "https://timesofindia.indiatimes.com/india/6-families-of-ai-171-crash-victims-receive-second-set-of-remains/articleshow/122235829.cms",
+          "snippet": "6 families of AI 171 crash victims receive 'second set' of remains"
+        },
+        {
+          "index": 10,
+          "score": 0.14259550875618077,
+          "headline": "GPS interference: AI Express Delhi-Jammu flight returns to IGIA",
+          "url": "https://timesofindia.indiatimes.com/india/gps-interference-ai-express-delhi-jammu-flight-returns-to-igia/articleshow/122029140.cms",
+          "snippet": "GPS interference: AI Express Delhi-Jammu flight returns to IGIA"
+        },
+        {
+          "index": 13,
+          "score": 0.13518606574902536,
+          "headline": "Soundcheck! Shux, crew lend voice to help train AI on Earth",
+          "url": "https://timesofindia.indiatimes.com/india/soundcheck-shux-crew-lend-voice-to-help-train-ai-on-earth/articleshow/122255012.cms",
+          "snippet": "Soundcheck! Shux, crew lend voice to help train AI on Earth"
+        },
+        {
+          "index": 14,
+          "score": 0.13388975857893462,
+          "headline": "Google AI mode rolled out: Top features for students to learn faster, smarter",
+          "url": "https://timesofindia.indiatimes.com/education/news/google-ai-mode-rolled-out-top-features-for-students-to-learn-faster-smarter/articleshow/122363983.cms",
+          "snippet": "Google AI mode rolled out: Top features for students to learn faster, smarter"
+        },
+        {
+          "index": 16,
+          "score": 0.13229616753317652,
+          "headline": "AI meets Ayodhya: Young drama group stages Pak's 1st Ramayana",
+          "url": "https://timesofindia.indiatimes.com/india/ai-meets-ayodhya-young-drama-group-stages-paks-1st-ramayana/articleshow/122773587.cms",
+          "snippet": "AI meets Ayodhya: Young drama group stages Pak's 1st Ramayana"
+        },
+        {
+          "index": 18,
+          "score": 0.12969857606833368,
+          "headline": "Fuel switch checks clear Boeing 787s, 737s in AI fleet",
+          "url": "https://timesofindia.indiatimes.com/india/fuel-switch-checks-clear-boeing-787s-737s-in-ai-fleet/articleshow/122845148.cms",
+          "snippet": "Fuel switch checks clear Boeing 787s, 737s in AI fleet"
+        },
+        {
+          "index": 19,
+          "score": 0.12919677293811077,
+          "headline": "As Apple's AI struggles continue, it again looks at these technology companies including one backed by Amazon",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-apples-ai-struggles-continue-it-again-looks-at-these-technology-companies-including-one-backed-by-amazon/articleshow/122168275.cms",
+          "snippet": "As Apple's AI struggles continue, it again looks at these technology companies including one backed by Amazon"
+        },
+        {
+          "index": 21,
+          "score": 0.12579759080825917,
+          "headline": "Fuel switches found in 'RUN' position: Aftermath of AI 171 crash in images; what the wreckage shows",
+          "url": "https://timesofindia.indiatimes.com/india/fuel-switches-found-in-run-position-aftermath-of-ai-171-crash-in-images-what-the-wreckage-shows/articleshow/122398583.cms",
+          "snippet": "Fuel switches found in 'RUN' position: Aftermath of AI 171 crash in images; what the wreckage shows"
+        },
+        {
+          "index": 23,
+          "score": 0.12445527386054607,
+          "headline": "AI crash: Mum's skin grafts help heal infant's 36% burns",
+          "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-crash-mums-skin-grafts-help-heal-infants-36-burns/articleshow/122939791.cms",
+          "snippet": "AI crash: Mum's skin grafts help heal infant's 36% burns"
+        },
+        {
+          "index": 27,
+          "score": 0.11965446505483489,
+          "headline": "'Don't jump to any conclusion': Civil aviation minister reacts to AI 171 crash probe report; calls it 'preliminary'",
+          "url": "https://timesofindia.indiatimes.com/india/dont-jump-to-any-conclusion-civil-aviation-ministry-reacts-to-ai-171-crash-probe-report-calls-it-preliminary/articleshow/122401861.cms",
+          "snippet": "'Don't jump to any conclusion': Civil aviation minister reacts to AI 171 crash probe report; calls it 'preliminary'"
+        },
+        {
+          "index": 35,
+          "score": 0.11424033434019683,
+          "headline": "Bagdogra-bound AI Express flyer from Srinagar lands in Bhubaneswar; didn't change planes in Delhi",
+          "url": "https://timesofindia.indiatimes.com/india/bagdogra-bound-ai-express-flyer-from-srinagar-lands-in-bhubaneswar-didnt-change-planes-in-delhi/articleshow/123014785.cms",
+          "snippet": "Bagdogra-bound AI Express flyer from Srinagar lands in Bhubaneswar; didn't change planes in Delhi"
+        },
+        {
+          "index": 37,
+          "score": 0.11296032730392985,
+          "headline": "Grok AI chatbot explains why it is 'consulting' Elon Musk for Israel-Palestine, abortion, immigration and everything 'controversial'",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/grok-ai-chatbot-explains-why-it-is-consulting-elon-musk-for-israel-palestine-abortion-immigration-and-everything-controversial/articleshow/122385878.cms",
+          "snippet": "Grok AI chatbot explains why it is 'consulting' Elon Musk for Israel-Palestine, abortion, immigration and everything 'controversial'"
+        },
+        {
+          "index": 39,
+          "score": 0.11088929247353739,
+          "headline": "Mars in just 15 years? European Space Agency’s bold plan includes space cities and AI farmers",
+          "url": "https://timesofindia.indiatimes.com/science/mars-in-just-15-years-european-space-agencys-bold-plan-includes-space-cities-and-ai-farmers/articleshow/122291230.cms",
+          "snippet": "Mars in just 15 years? European Space Agency’s bold plan includes space cities and AI farmers"
+        },
+        {
+          "index": 42,
+          "score": 0.1021032932114462,
+          "headline": "What US FAA and Boeing's 'privately issued notifications' say amid Air India AI 171 Boeing 787-8 crash probe",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/what-us-faa-and-boeings-privately-issued-notifications-say-amid-air-india-ai-171-boeing-787-8-crash-probe/articleshow/122430350.cms",
+          "snippet": "What US FAA and Boeing's 'privately issued notifications' say amid Air India AI 171 Boeing 787-8 crash probe"
+        },
+        {
+          "index": 45,
+          "score": 0.09767969346600357,
+          "headline": "AI font forensics helps income tax (I-T) in Hyderabad bust Rs 68 lakh LTCG fraud; exposes forged document from 2002",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/ai-font-forensics-helps-income-tax-i-t-in-hyderabad-bust-rs-68-lakh-ltcg-fraud-exposes-forged-document-from-2002/articleshow/122615657.cms",
+          "snippet": "AI font forensics helps income tax (I-T) in Hyderabad bust Rs 68 lakh LTCG fraud; exposes forged document from 2002"
+        },
+        {
+          "index": 46,
+          "score": 0.08748527822846414,
+          "headline": "'Fuel supply to AI 171 Dreamliner engines got cutoff 3 seconds after liftoff, plane crashed 29 seconds later': AAIB in preliminary report",
+          "url": "https://timesofindia.indiatimes.com/india/fuel-supply-to-ai-171-dreamliner-engines-got-cutoff-3-seconds-after-liftoff-plane-crashed-29-seconds-later-aaibs-preliminary-report-on-air-india-plane-crash/articleshow/122395331.cms",
+          "snippet": "'Fuel supply to AI 171 Dreamliner engines got cutoff 3 seconds after liftoff, plane crashed 29 seconds later': AAIB in preliminary report"
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "size": 7,
+      "representative": {
+        "index": 25,
+        "score": 0.12051856208701096,
+        "headline": "IIT-Madras to mentor Telangana's Sircilla govt school students; 8-week online course to focus on AI & more",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/iit-madras-to-mentor-telanganas-sircilla-govt-school-students-8-week-online-course-to-focus-on-ai-more/articleshow/122378523.cms",
+        "snippet": "IIT-Madras to mentor Telangana's Sircilla govt school students; 8-week online course to focus on AI & more"
+      },
+      "members": [
+        {
+          "index": 25,
+          "score": 0.12051856208701096,
+          "headline": "IIT-Madras to mentor Telangana's Sircilla govt school students; 8-week online course to focus on AI & more",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/iit-madras-to-mentor-telanganas-sircilla-govt-school-students-8-week-online-course-to-focus-on-ai-more/articleshow/122378523.cms",
+          "snippet": "IIT-Madras to mentor Telangana's Sircilla govt school students; 8-week online course to focus on AI & more"
+        },
+        {
+          "index": 26,
+          "score": 0.1204528809046827,
+          "headline": "From coders to copilots: How Microsoft's 9,000 layoffs reflect the AI-driven evolution of tech work",
+          "url": "https://timesofindia.indiatimes.com/education/news/microsoft-confirms-9000-layoffs-in-strategic-pivot-to-artificial-intelligence/articleshow/122219264.cms",
+          "snippet": "From coders to copilots: How Microsoft's 9,000 layoffs reflect the AI-driven evolution of tech work"
+        },
+        {
+          "index": 28,
+          "score": 0.1191588520137002,
+          "headline": "Telangana to curb industrial mishaps: Smart tech in focus; AI tools, safety rules to be enforced",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-to-curb-industrial-mishaps-smart-tech-in-focus-ai-tools-safety-rules-to-be-enforced/articleshow/122217518.cms",
+          "snippet": "Telangana to curb industrial mishaps: Smart tech in focus; AI tools, safety rules to be enforced"
+        },
+        {
+          "index": 31,
+          "score": 0.11643802308387054,
+          "headline": "TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling",
+          "url": "https://timesofindia.indiatimes.com/city/bengaluru/tcs-layoffs-rattle-it-sector-infosys-rules-out-job-cuts-focuses-on-freshers-and-ai-reskilling/articleshow/122982813.cms",
+          "snippet": "TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling"
+        },
+        {
+          "index": 32,
+          "score": 0.11643802308387054,
+          "headline": "TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-layoffs-rattle-it-sector-infosys-rules-out-job-cuts-focuses-on-freshers-and-ai-reskilling/articleshow/122982813.cms",
+          "snippet": "TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling"
+        },
+        {
+          "index": 34,
+          "score": 0.11451428508133997,
+          "headline": "AI in focus: Centre proposes changes in IT Rules to curb deepfakes; public feedback open till November 6",
+          "url": "https://timesofindia.indiatimes.com/india/ai-in-focus-meity-proposes-it-rules-changes-to-curb-deepfakes-public-feedback-open-till-november-6/articleshow/124739220.cms",
+          "snippet": "AI in focus: Centre proposes changes in IT Rules to curb deepfakes; public feedback open till November 6"
+        },
+        {
+          "index": 36,
+          "score": 0.11320756721215164,
+          "headline": "Next-generation digital highway: Delhi's Dwarka Expressway gets India’s first AI-powered smart traffic system; check top features",
+          "url": "https://timesofindia.indiatimes.com/business/infrastructure/next-generation-digital-highway-delhis-dwarka-expressway-gets-indias-first-ai-powered-smart-traffic-system-check-top-features/articleshow/122067359.cms",
+          "snippet": "Next-generation digital highway: Delhi's Dwarka Expressway gets India’s first AI-powered smart traffic system; check top features"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 6,
+      "representative": {
+        "index": 0,
+        "score": 0.29949658517740063,
+        "headline": "Activists accuse food regulator of stalling on-pack labelling regulation",
+        "url": "https://timesofindia.indiatimes.com/india/activists-accuse-food-regulator-of-stalling-on-pack-labelling-regulation/articleshow/122515185.cms",
+        "snippet": "Activists accuse food regulator of stalling on-pack labelling regulation"
+      },
+      "members": [
+        {
+          "index": 0,
+          "score": 0.29949658517740063,
+          "headline": "Activists accuse food regulator of stalling on-pack labelling regulation",
+          "url": "https://timesofindia.indiatimes.com/india/activists-accuse-food-regulator-of-stalling-on-pack-labelling-regulation/articleshow/122515185.cms",
+          "snippet": "Activists accuse food regulator of stalling on-pack labelling regulation"
+        },
+        {
+          "index": 1,
+          "score": 0.24075232851871736,
+          "headline": "‘Citizens must know the value of free speech and expression’: SC flags divisive content on social media; urges self-regulation, not over-censorship",
+          "url": "https://timesofindia.indiatimes.com/india/citizens-must-know-the-value-of-free-speech-and-expression-sc-flags-divisive-content-on-social-media-urges-self-restraint-not-censorship/articleshow/122437370.cms",
+          "snippet": "‘Citizens must know the value of free speech and expression’: SC flags divisive content on social media; urges self-regulation, not over-censorship"
+        },
+        {
+          "index": 22,
+          "score": 0.1252369621612035,
+          "headline": "The AI technology that has divided Silicon Valley is biggest reason behind the rift between OpenAI and Microsoft",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-ai-technology-that-has-divided-silicon-valley-is-biggest-reason-behind-the-rift-between-openai-and-microsoft/articleshow/122094351.cms",
+          "snippet": "The AI technology that has divided Silicon Valley is biggest reason behind the rift between OpenAI and Microsoft"
+        },
+        {
+          "index": 24,
+          "score": 0.12080057245159902,
+          "headline": "Meta Offering OpenAI Researchers Up to $300 Million to Join Its AI Lab, Says Report; Company Responds",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-offering-openai-researchers-up-to-300-million-to-join-its-ai-lab-says-report-company-responds-says-some-people-have-chosen-to/articleshow/122200248.cms",
+          "snippet": "Meta Offering OpenAI Researchers Up to $300 Million to Join Its AI Lab, Says Report; Company Responds"
+        },
+        {
+          "index": 33,
+          "score": 0.1152430109211241,
+          "headline": "Who is Mira Murati? Former OpenAI CTO who rejected Mark Zuckerberg's $1 billion offer to join Meta AI",
+          "url": "https://timesofindia.indiatimes.com/world/us/who-is-mira-murati-former-openai-cto-who-rejected-mark-zuckerbergs-1-billion-offer-to-join-meta-ai/articleshow/122994020.cms",
+          "snippet": "Who is Mira Murati? Former OpenAI CTO who rejected Mark Zuckerberg's $1 billion offer to join Meta AI"
+        },
+        {
+          "index": 41,
+          "score": 0.10442866489309864,
+          "headline": "Mark Zuckerberg appoints Shengjia Zhao, who co-created OpenAI’s ChatGPT, as chief scientist of Meta's AI Superintelligence Lab",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-appoints-shengjia-zhao-who-co-created-openais-chatgpt-as-chief-scientist-of-metas-ai-superintelligence-lab/articleshow/122918120.cms",
+          "snippet": "Mark Zuckerberg appoints Shengjia Zhao, who co-created OpenAI’s ChatGPT, as chief scientist of Meta's AI Superintelligence Lab"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 6,
+      "representative": {
+        "index": 5,
+        "score": 0.1525836183897021,
+        "headline": "Startups to giants: India rides the AI wave to sustainability",
+        "url": "https://timesofindia.indiatimes.com/india/startups-to-giants-india-rides-the-ai-wave-to-sustainability/articleshow/122238919.cms",
+        "snippet": "Startups to giants: India rides the AI wave to sustainability"
+      },
+      "members": [
+        {
+          "index": 5,
+          "score": 0.1525836183897021,
+          "headline": "Startups to giants: India rides the AI wave to sustainability",
+          "url": "https://timesofindia.indiatimes.com/india/startups-to-giants-india-rides-the-ai-wave-to-sustainability/articleshow/122238919.cms",
+          "snippet": "Startups to giants: India rides the AI wave to sustainability"
+        },
+        {
+          "index": 9,
+          "score": 0.14639792270871693,
+          "headline": "AI plane crash probe: What happened before the Mayday call? Timeline of final moments",
+          "url": "https://timesofindia.indiatimes.com/india/ai-plane-crash-probe-what-happened-before-the-mayday-call-timeline-of-final-moments/articleshow/122398672.cms",
+          "snippet": "AI plane crash probe: What happened before the Mayday call? Timeline of final moments"
+        },
+        {
+          "index": 12,
+          "score": 0.13718225587534708,
+          "headline": "Ahmedabad air crash: Inside the 10-second mystery - What really brought down AI 171?",
+          "url": "https://timesofindia.indiatimes.com/india/ahmedabad-air-crash-inside-the-10-second-mystery-what-really-brought-down-ai-171/articleshow/122873495.cms",
+          "snippet": "Ahmedabad air crash: Inside the 10-second mystery - What really brought down AI 171?"
+        },
+        {
+          "index": 38,
+          "score": 0.11218671463604554,
+          "headline": "Air India plane crash: AI-generated fake reports, videos spreading misinformation; fraudsters exploiting vulnerability",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-plane-crash-ai-generated-fake-reports-videos-spreading-misinformation-fraudsters-exploiting-vulnerability/articleshow/122202668.cms",
+          "snippet": "Air India plane crash: AI-generated fake reports, videos spreading misinformation; fraudsters exploiting vulnerability"
+        },
+        {
+          "index": 43,
+          "score": 0.09992845747807906,
+          "headline": "Air India tragedy: 112 Air India pilots called in sick in AI-171 crash aftermath; government says 'minor increase in leaves' across fleets",
+          "url": "https://timesofindia.indiatimes.com/india/air-india-tragedy-112-air-india-pilots-called-in-sick-in-ai-171-crash-aftermath-government-says-minor-increase-in-leaves-across-fleets/articleshow/122881974.cms",
+          "snippet": "Air India tragedy: 112 Air India pilots called in sick in AI-171 crash aftermath; government says 'minor increase in leaves' across fleets"
+        },
+        {
+          "index": 44,
+          "score": 0.09803228711105909,
+          "headline": "We crashed AI 171: Chennai techie creates hundreds of fake emails, uses 80 phone numbers across 11 states to trap colleague",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/we-crashed-ai-171-chennai-techie-creates-hundreds-of-fake-emails-uses-80-phone-numbers-across-11-states-to-trap-colleague/articleshow/122070166.cms",
+          "snippet": "We crashed AI 171: Chennai techie creates hundreds of fake emails, uses 80 phone numbers across 11 states to trap colleague"
+        }
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "size": 5,
+      "representative": {
+        "index": 4,
+        "score": 0.17872976823830894,
+        "headline": "Both engines shut down within secs of take-off: AI crash report",
+        "url": "https://timesofindia.indiatimes.com/india/both-engines-shut-down-within-secs-of-take-off-ai-crash-report/articleshow/122396319.cms",
+        "snippet": "Both engines shut down within secs of take-off: AI crash report"
+      },
+      "members": [
+        {
+          "index": 4,
+          "score": 0.17872976823830894,
+          "headline": "Both engines shut down within secs of take-off: AI crash report",
+          "url": "https://timesofindia.indiatimes.com/india/both-engines-shut-down-within-secs-of-take-off-ai-crash-report/articleshow/122396319.cms",
+          "snippet": "Both engines shut down within secs of take-off: AI crash report"
+        },
+        {
+          "index": 7,
+          "score": 0.15135248001707763,
+          "headline": "Inside the cockpit: ‘Why did you cut off ...?’ What was the last conversation between AI 171 pilots",
+          "url": "https://timesofindia.indiatimes.com/india/inside-the-cockpit-why-did-you-cut-off-what-was-the-last-conversation-between-ai-171-pilots/articleshow/122399899.cms",
+          "snippet": "Inside the cockpit: ‘Why did you cut off ...?’ What was the last conversation between AI 171 pilots"
+        },
+        {
+          "index": 17,
+          "score": 0.13033401146778306,
+          "headline": "Now, International Federation of Pilots also says AI 171 report 'raises questions, provides no answers'",
+          "url": "https://timesofindia.indiatimes.com/india/now-international-federation-of-pilots-also-says-ai-171-report-raises-questions-provides-no-answers/articleshow/122489273.cms",
+          "snippet": "Now, International Federation of Pilots also says AI 171 report 'raises questions, provides no answers'"
+        },
+        {
+          "index": 30,
+          "score": 0.11665920125588261,
+          "headline": "'All a speculation': Black box of crashed AI plane not sent abroad, says Naidu; currently with AIIB",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/all-a-speculation-black-box-of-crashed-ai-plane-not-sent-abroad-says-naidu-currently-with-aiib/articleshow/122044255.cms",
+          "snippet": "'All a speculation': Black box of crashed AI plane not sent abroad, says Naidu; currently with AIIB"
+        },
+        {
+          "index": 40,
+          "score": 0.10672140365129565,
+          "headline": "AI 171 crash: Pilot’s aged father moves SC seeking independent probe; terms preliminary report ‘profoundly flawed’",
+          "url": "https://timesofindia.indiatimes.com/india/ai-171-crash-pilots-aged-father-moves-sc-seeking-independent-probe-terms-preliminary-report-profoundly-flawed/articleshow/124607874.cms",
+          "snippet": "AI 171 crash: Pilot’s aged father moves SC seeking independent probe; terms preliminary report ‘profoundly flawed’"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 4,
+      "representative": {
+        "index": 11,
+        "score": 0.1416889213404163,
+        "headline": "Nvidia CEO Jensen Huang now eyes this tech sector after AI: ‘We’re working towards a day where…’",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-now-eyes-this-tech-sector-after-ai-were-working-towards-a-day-where/articleshow/122093878.cms",
+        "snippet": "Nvidia CEO Jensen Huang now eyes this tech sector after AI: ‘We’re working towards a day where…’"
+      },
+      "members": [
+        {
+          "index": 11,
+          "score": 0.1416889213404163,
+          "headline": "Nvidia CEO Jensen Huang now eyes this tech sector after AI: ‘We’re working towards a day where…’",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-now-eyes-this-tech-sector-after-ai-were-working-towards-a-day-where/articleshow/122093878.cms",
+          "snippet": "Nvidia CEO Jensen Huang now eyes this tech sector after AI: ‘We’re working towards a day where…’"
+        },
+        {
+          "index": 15,
+          "score": 0.13388912110174261,
+          "headline": "Nvidia CEO Jensen Huang predicts: AI will create more millionaires in five years - The Times of India",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-predicts-ai-will-create-more-millionaires-in-five-years/articleshow/122946593.cms",
+          "snippet": "Nvidia CEO Jensen Huang predicts: AI will create more millionaires in five years - The Times of India"
+        },
+        {
+          "index": 20,
+          "score": 0.1276643370762108,
+          "headline": "‘They don't need…: Nvidia CEO Jensen Huang on concerns over China Military using US AI chips",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/they-dont-needcertainly-nvidia-ceo-jensen-huang-on-concerns-over-china-military-using-us-chips/articleshow/122450740.cms",
+          "snippet": "‘They don't need…: Nvidia CEO Jensen Huang on concerns over China Military using US AI chips"
+        },
+        {
+          "index": 29,
+          "score": 0.11679767097870965,
+          "headline": "Salesforce CEO Marc Benioff says: I keep asking CEOs, what AI are they using for these big layoffs, and I think...",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-i-keep-asking-ceos-what-ai-are-they-using-for-these-big-layoffs-and-i-think-/articleshow/123014079.cms",
+          "snippet": "Salesforce CEO Marc Benioff says: I keep asking CEOs, what AI are they using for these big layoffs, and I think..."
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "representative": {
+        "index": 3,
+        "score": 0.1830848056520231,
+        "headline": "Army used AI in a 'big way' during Operation Sindoor",
+        "url": "https://timesofindia.indiatimes.com/india/army-used-ai-in-a-big-way-during-operation-sindoor/articleshow/124345398.cms",
+        "snippet": "Army used AI in a 'big way' during Operation Sindoor"
+      },
+      "members": [
+        {
+          "index": 3,
+          "score": 0.1830848056520231,
+          "headline": "Army used AI in a 'big way' during Operation Sindoor",
+          "url": "https://timesofindia.indiatimes.com/india/army-used-ai-in-a-big-way-during-operation-sindoor/articleshow/124345398.cms",
+          "snippet": "Army used AI in a 'big way' during Operation Sindoor"
+        },
+        {
+          "index": 8,
+          "score": 0.14997360966497067,
+          "headline": "Donald Trump declares: We are way ahead of China in AI race and the plants are ..",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-declares-we-are-way-ahead-of-china-in-ai-race-and-the-plants-are-/articleshow/122589990.cms",
+          "snippet": "Donald Trump declares: We are way ahead of China in AI race and the plants are .."
+        }
+      ]
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": 0,
+        "headline": "Activists accuse food regulator of stalling on-pack labelling regulation",
+        "url": "https://timesofindia.indiatimes.com/india/activists-accuse-food-regulator-of-stalling-on-pack-labelling-regulation/articleshow/122515185.cms",
+        "date": "2025-07-15T19:40:00+00:00"
+      },
+      {
+        "id": 1,
+        "headline": "‘Citizens must know the value of free speech and expression’: SC flags divisive content on social media; urges self-regulation, not over-censorship",
+        "url": "https://timesofindia.indiatimes.com/india/citizens-must-know-the-value-of-free-speech-and-expression-sc-flags-divisive-content-on-social-media-urges-self-restraint-not-censorship/articleshow/122437370.cms",
+        "date": "2025-07-14T16:53:00+05:30"
+      },
+      {
+        "id": 2,
+        "headline": "38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don’t sink warning’ on take off from Delhi",
+        "url": "https://timesofindia.indiatimes.com/india/38-hours-after-ai-171-crash-ai-boeing-777-got-stall-ground-proximity-dont-sink-warning-on-take-off-from-delhi/articleshow/122168144.cms",
+        "date": "2025-07-01T01:29:00+00:00"
+      },
+      {
+        "id": 3,
+        "headline": "Army used AI in a 'big way' during Operation Sindoor",
+        "url": "https://timesofindia.indiatimes.com/india/army-used-ai-in-a-big-way-during-operation-sindoor/articleshow/124345398.cms",
+        "date": "2025-10-06T22:47:00"
+      },
+      {
+        "id": 4,
+        "headline": "Both engines shut down within secs of take-off: AI crash report",
+        "url": "https://timesofindia.indiatimes.com/india/both-engines-shut-down-within-secs-of-take-off-ai-crash-report/articleshow/122396319.cms",
+        "date": "2025-07-12T04:40:00+00:00"
+      },
+      {
+        "id": 5,
+        "headline": "Startups to giants: India rides the AI wave to sustainability",
+        "url": "https://timesofindia.indiatimes.com/india/startups-to-giants-india-rides-the-ai-wave-to-sustainability/articleshow/122238919.cms",
+        "date": "2025-07-04T07:59:00+00:00"
+      },
+      {
+        "id": 6,
+        "headline": "6 families of AI 171 crash victims receive 'second set' of remains",
+        "url": "https://timesofindia.indiatimes.com/india/6-families-of-ai-171-crash-victims-receive-second-set-of-remains/articleshow/122235829.cms",
+        "date": "2025-07-04T02:57:00+00:00"
+      },
+      {
+        "id": 7,
+        "headline": "Inside the cockpit: ‘Why did you cut off ...?’ What was the last conversation between AI 171 pilots",
+        "url": "https://timesofindia.indiatimes.com/india/inside-the-cockpit-why-did-you-cut-off-what-was-the-last-conversation-between-ai-171-pilots/articleshow/122399899.cms",
+        "date": "2025-07-12T11:37:00+00:00"
+      },
+      {
+        "id": 8,
+        "headline": "Donald Trump declares: We are way ahead of China in AI race and the plants are ..",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-declares-we-are-way-ahead-of-china-in-ai-race-and-the-plants-are-/articleshow/122589990.cms",
+        "date": "2025-07-17T08:31:00"
+      },
+      {
+        "id": 9,
+        "headline": "AI plane crash probe: What happened before the Mayday call? Timeline of final moments",
+        "url": "https://timesofindia.indiatimes.com/india/ai-plane-crash-probe-what-happened-before-the-mayday-call-timeline-of-final-moments/articleshow/122398672.cms",
+        "date": "2025-07-12T08:31:00+05:30"
+      },
+      {
+        "id": 10,
+        "headline": "GPS interference: AI Express Delhi-Jammu flight returns to IGIA",
+        "url": "https://timesofindia.indiatimes.com/india/gps-interference-ai-express-delhi-jammu-flight-returns-to-igia/articleshow/122029140.cms",
+        "date": "2025-06-23T20:39:00+00:00"
+      },
+      {
+        "id": 11,
+        "headline": "Nvidia CEO Jensen Huang now eyes this tech sector after AI: ‘We’re working towards a day where…’",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-now-eyes-this-tech-sector-after-ai-were-working-towards-a-day-where/articleshow/122093878.cms",
+        "date": "2025-06-26T19:09:00+00:00"
+      },
+      {
+        "id": 12,
+        "headline": "Ahmedabad air crash: Inside the 10-second mystery - What really brought down AI 171?",
+        "url": "https://timesofindia.indiatimes.com/india/ahmedabad-air-crash-inside-the-10-second-mystery-what-really-brought-down-ai-171/articleshow/122873495.cms",
+        "date": "2025-07-24T11:35:00+00:00"
+      },
+      {
+        "id": 13,
+        "headline": "Soundcheck! Shux, crew lend voice to help train AI on Earth",
+        "url": "https://timesofindia.indiatimes.com/india/soundcheck-shux-crew-lend-voice-to-help-train-ai-on-earth/articleshow/122255012.cms",
+        "date": "2025-07-04T22:53:00+00:00"
+      },
+      {
+        "id": 14,
+        "headline": "Google AI mode rolled out: Top features for students to learn faster, smarter",
+        "url": "https://timesofindia.indiatimes.com/education/news/google-ai-mode-rolled-out-top-features-for-students-to-learn-faster-smarter/articleshow/122363983.cms",
+        "date": "2025-07-10T15:40:00+05:30"
+      },
+      {
+        "id": 15,
+        "headline": "Nvidia CEO Jensen Huang predicts: AI will create more millionaires in five years - The Times of India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-predicts-ai-will-create-more-millionaires-in-five-years/articleshow/122946593.cms",
+        "date": "2025-07-28T11:27:00+00:00"
+      },
+      {
+        "id": 16,
+        "headline": "AI meets Ayodhya: Young drama group stages Pak's 1st Ramayana",
+        "url": "https://timesofindia.indiatimes.com/india/ai-meets-ayodhya-young-drama-group-stages-paks-1st-ramayana/articleshow/122773587.cms",
+        "date": "2025-07-19T04:39:00+00:00"
+      },
+      {
+        "id": 17,
+        "headline": "Now, International Federation of Pilots also says AI 171 report 'raises questions, provides no answers'",
+        "url": "https://timesofindia.indiatimes.com/india/now-international-federation-of-pilots-also-says-ai-171-report-raises-questions-provides-no-answers/articleshow/122489273.cms",
+        "date": "2025-07-15T11:51:00+00:00"
+      },
+      {
+        "id": 18,
+        "headline": "Fuel switch checks clear Boeing 787s, 737s in AI fleet",
+        "url": "https://timesofindia.indiatimes.com/india/fuel-switch-checks-clear-boeing-787s-737s-in-ai-fleet/articleshow/122845148.cms",
+        "date": "2025-07-23T03:04:00+00:00"
+      },
+      {
+        "id": 19,
+        "headline": "As Apple's AI struggles continue, it again looks at these technology companies including one backed by Amazon",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-apples-ai-struggles-continue-it-again-looks-at-these-technology-companies-including-one-backed-by-amazon/articleshow/122168275.cms",
+        "date": "2025-07-01T01:58:00+00:00"
+      },
+      {
+        "id": 20,
+        "headline": "‘They don't need…: Nvidia CEO Jensen Huang on concerns over China Military using US AI chips",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/they-dont-needcertainly-nvidia-ceo-jensen-huang-on-concerns-over-china-military-using-us-chips/articleshow/122450740.cms",
+        "date": "2025-07-15T11:46:00+00:00"
+      },
+      {
+        "id": 21,
+        "headline": "Fuel switches found in 'RUN' position: Aftermath of AI 171 crash in images; what the wreckage shows",
+        "url": "https://timesofindia.indiatimes.com/india/fuel-switches-found-in-run-position-aftermath-of-ai-171-crash-in-images-what-the-wreckage-shows/articleshow/122398583.cms",
+        "date": "2025-07-12T09:54:00+00:00"
+      },
+      {
+        "id": 22,
+        "headline": "The AI technology that has divided Silicon Valley is biggest reason behind the rift between OpenAI and Microsoft",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-ai-technology-that-has-divided-silicon-valley-is-biggest-reason-behind-the-rift-between-openai-and-microsoft/articleshow/122094351.cms",
+        "date": "2025-06-26T19:41:00+00:00"
+      },
+      {
+        "id": 23,
+        "headline": "AI crash: Mum's skin grafts help heal infant's 36% burns",
+        "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-crash-mums-skin-grafts-help-heal-infants-36-burns/articleshow/122939791.cms",
+        "date": "2025-07-28T01:53:00+00:00"
+      },
+      {
+        "id": 24,
+        "headline": "Meta Offering OpenAI Researchers Up to $300 Million to Join Its AI Lab, Says Report; Company Responds",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-offering-openai-researchers-up-to-300-million-to-join-its-ai-lab-says-report-company-responds-says-some-people-have-chosen-to/articleshow/122200248.cms",
+        "date": "2025-07-02T13:03:00+05:30"
+      },
+      {
+        "id": 25,
+        "headline": "IIT-Madras to mentor Telangana's Sircilla govt school students; 8-week online course to focus on AI & more",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/iit-madras-to-mentor-telanganas-sircilla-govt-school-students-8-week-online-course-to-focus-on-ai-more/articleshow/122378523.cms",
+        "date": "2025-07-11T09:19:00+00:00"
+      },
+      {
+        "id": 26,
+        "headline": "From coders to copilots: How Microsoft's 9,000 layoffs reflect the AI-driven evolution of tech work",
+        "url": "https://timesofindia.indiatimes.com/education/news/microsoft-confirms-9000-layoffs-in-strategic-pivot-to-artificial-intelligence/articleshow/122219264.cms",
+        "date": "2025-07-03T11:28:00+00:00"
+      },
+      {
+        "id": 27,
+        "headline": "'Don't jump to any conclusion': Civil aviation minister reacts to AI 171 crash probe report; calls it 'preliminary'",
+        "url": "https://timesofindia.indiatimes.com/india/dont-jump-to-any-conclusion-civil-aviation-ministry-reacts-to-ai-171-crash-probe-report-calls-it-preliminary/articleshow/122401861.cms",
+        "date": "2025-07-12T13:44:00+00:00"
+      },
+      {
+        "id": 28,
+        "headline": "Telangana to curb industrial mishaps: Smart tech in focus; AI tools, safety rules to be enforced",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-to-curb-industrial-mishaps-smart-tech-in-focus-ai-tools-safety-rules-to-be-enforced/articleshow/122217518.cms",
+        "date": "2025-07-03T08:52:00+00:00"
+      },
+      {
+        "id": 29,
+        "headline": "Salesforce CEO Marc Benioff says: I keep asking CEOs, what AI are they using for these big layoffs, and I think...",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-i-keep-asking-ceos-what-ai-are-they-using-for-these-big-layoffs-and-i-think-/articleshow/123014079.cms",
+        "date": "2025-07-31T12:40:00+00:00"
+      },
+      {
+        "id": 30,
+        "headline": "'All a speculation': Black box of crashed AI plane not sent abroad, says Naidu; currently with AIIB",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/all-a-speculation-black-box-of-crashed-ai-plane-not-sent-abroad-says-naidu-currently-with-aiib/articleshow/122044255.cms",
+        "date": "2025-06-24T14:24:00+00:00"
+      },
+      {
+        "id": 31,
+        "headline": "TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling",
+        "url": "https://timesofindia.indiatimes.com/city/bengaluru/tcs-layoffs-rattle-it-sector-infosys-rules-out-job-cuts-focuses-on-freshers-and-ai-reskilling/articleshow/122982813.cms",
+        "date": "2025-07-30T08:57:00+05:30"
+      },
+      {
+        "id": 32,
+        "headline": "TCS layoffs rattle IT sector: Infosys rules out job cuts; focuses on freshers and AI reskilling",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-layoffs-rattle-it-sector-infosys-rules-out-job-cuts-focuses-on-freshers-and-ai-reskilling/articleshow/122982813.cms",
+        "date": "2025-07-30T08:57:00+00:00"
+      },
+      {
+        "id": 33,
+        "headline": "Who is Mira Murati? Former OpenAI CTO who rejected Mark Zuckerberg's $1 billion offer to join Meta AI",
+        "url": "https://timesofindia.indiatimes.com/world/us/who-is-mira-murati-former-openai-cto-who-rejected-mark-zuckerbergs-1-billion-offer-to-join-meta-ai/articleshow/122994020.cms",
+        "date": "2025-07-30T14:27:00+00:00"
+      },
+      {
+        "id": 34,
+        "headline": "AI in focus: Centre proposes changes in IT Rules to curb deepfakes; public feedback open till November 6",
+        "url": "https://timesofindia.indiatimes.com/india/ai-in-focus-meity-proposes-it-rules-changes-to-curb-deepfakes-public-feedback-open-till-november-6/articleshow/124739220.cms",
+        "date": "2025-10-22T17:03:00"
+      },
+      {
+        "id": 35,
+        "headline": "Bagdogra-bound AI Express flyer from Srinagar lands in Bhubaneswar; didn't change planes in Delhi",
+        "url": "https://timesofindia.indiatimes.com/india/bagdogra-bound-ai-express-flyer-from-srinagar-lands-in-bhubaneswar-didnt-change-planes-in-delhi/articleshow/123014785.cms",
+        "date": "2025-07-31T13:26:00+00:00"
+      },
+      {
+        "id": 36,
+        "headline": "Next-generation digital highway: Delhi's Dwarka Expressway gets India’s first AI-powered smart traffic system; check top features",
+        "url": "https://timesofindia.indiatimes.com/business/infrastructure/next-generation-digital-highway-delhis-dwarka-expressway-gets-indias-first-ai-powered-smart-traffic-system-check-top-features/articleshow/122067359.cms",
+        "date": "2025-06-25T17:00:00"
+      },
+      {
+        "id": 37,
+        "headline": "Grok AI chatbot explains why it is 'consulting' Elon Musk for Israel-Palestine, abortion, immigration and everything 'controversial'",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/grok-ai-chatbot-explains-why-it-is-consulting-elon-musk-for-israel-palestine-abortion-immigration-and-everything-controversial/articleshow/122385878.cms",
+        "date": "2025-07-11T15:32:00+00:00"
+      },
+      {
+        "id": 38,
+        "headline": "Air India plane crash: AI-generated fake reports, videos spreading misinformation; fraudsters exploiting vulnerability",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-plane-crash-ai-generated-fake-reports-videos-spreading-misinformation-fraudsters-exploiting-vulnerability/articleshow/122202668.cms",
+        "date": "2025-07-02T16:25:00+00:00"
+      },
+      {
+        "id": 39,
+        "headline": "Mars in just 15 years? European Space Agency’s bold plan includes space cities and AI farmers",
+        "url": "https://timesofindia.indiatimes.com/science/mars-in-just-15-years-european-space-agencys-bold-plan-includes-space-cities-and-ai-farmers/articleshow/122291230.cms",
+        "date": "2025-07-07T11:50:00"
+      },
+      {
+        "id": 40,
+        "headline": "AI 171 crash: Pilot’s aged father moves SC seeking independent probe; terms preliminary report ‘profoundly flawed’",
+        "url": "https://timesofindia.indiatimes.com/india/ai-171-crash-pilots-aged-father-moves-sc-seeking-independent-probe-terms-preliminary-report-profoundly-flawed/articleshow/124607874.cms",
+        "date": "2025-10-16T19:58:00"
+      },
+      {
+        "id": 41,
+        "headline": "Mark Zuckerberg appoints Shengjia Zhao, who co-created OpenAI’s ChatGPT, as chief scientist of Meta's AI Superintelligence Lab",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-appoints-shengjia-zhao-who-co-created-openais-chatgpt-as-chief-scientist-of-metas-ai-superintelligence-lab/articleshow/122918120.cms",
+        "date": "2025-07-26T11:32:00+05:30"
+      },
+      {
+        "id": 42,
+        "headline": "What US FAA and Boeing's 'privately issued notifications' say amid Air India AI 171 Boeing 787-8 crash probe",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/what-us-faa-and-boeings-privately-issued-notifications-say-amid-air-india-ai-171-boeing-787-8-crash-probe/articleshow/122430350.cms",
+        "date": "2025-07-14T11:19:00+00:00"
+      },
+      {
+        "id": 43,
+        "headline": "Air India tragedy: 112 Air India pilots called in sick in AI-171 crash aftermath; government says 'minor increase in leaves' across fleets",
+        "url": "https://timesofindia.indiatimes.com/india/air-india-tragedy-112-air-india-pilots-called-in-sick-in-ai-171-crash-aftermath-government-says-minor-increase-in-leaves-across-fleets/articleshow/122881974.cms",
+        "date": "2025-07-24T17:31:00+00:00"
+      },
+      {
+        "id": 44,
+        "headline": "We crashed AI 171: Chennai techie creates hundreds of fake emails, uses 80 phone numbers across 11 states to trap colleague",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/we-crashed-ai-171-chennai-techie-creates-hundreds-of-fake-emails-uses-80-phone-numbers-across-11-states-to-trap-colleague/articleshow/122070166.cms",
+        "date": "2025-06-25T17:43:00+00:00"
+      },
+      {
+        "id": 45,
+        "headline": "AI font forensics helps income tax (I-T) in Hyderabad bust Rs 68 lakh LTCG fraud; exposes forged document from 2002",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/ai-font-forensics-helps-income-tax-i-t-in-hyderabad-bust-rs-68-lakh-ltcg-fraud-exposes-forged-document-from-2002/articleshow/122615657.cms",
+        "date": "2025-07-17T10:48:00+00:00"
+      },
+      {
+        "id": 46,
+        "headline": "'Fuel supply to AI 171 Dreamliner engines got cutoff 3 seconds after liftoff, plane crashed 29 seconds later': AAIB in preliminary report",
+        "url": "https://timesofindia.indiatimes.com/india/fuel-supply-to-ai-171-dreamliner-engines-got-cutoff-3-seconds-after-liftoff-plane-crashed-29-seconds-later-aaibs-preliminary-report-on-air-india-plane-crash/articleshow/122395331.cms",
+        "date": "2025-07-12T04:01:00+00:00"
+      }
+    ],
+    "edges": [
+      {
+        "source": 11,
+        "target": 15,
+        "score": 0.3633168670151568,
+        "relation": "builds_on"
+      },
+      {
+        "source": 11,
+        "target": 20,
+        "score": 0.34229760747424043,
+        "relation": "builds_on"
+      },
+      {
+        "source": 15,
+        "target": 11,
+        "score": 0.3633168670151568,
+        "relation": "adds_context"
+      },
+      {
+        "source": 15,
+        "target": 20,
+        "score": 0.32231459589368633,
+        "relation": "adds_context"
+      },
+      {
+        "source": 20,
+        "target": 11,
+        "score": 0.34229760747424043,
+        "relation": "adds_context"
+      },
+      {
+        "source": 20,
+        "target": 15,
+        "score": 0.32231459589368633,
+        "relation": "builds_on"
+      },
+      {
+        "source": 31,
+        "target": 32,
+        "score": 1.0,
+        "relation": "builds_on"
+      },
+      {
+        "source": 32,
+        "target": 31,
+        "score": 1.0,
+        "relation": "adds_context"
+      }
+    ]
+  },
+  "metadata": {
+    "topic": "AI regulation",
+    "source_count": 2859,
+    "selected_count": 47
+  }
+}
